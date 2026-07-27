@@ -44,6 +44,12 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 <img width="1202" height="826" alt="image" src="https://github.com/user-attachments/assets/013ee33c-b5fd-46b6-bb5d-8c49de73e9bc" />
 <img width="902" height="816" alt="image" src="https://github.com/user-attachments/assets/32ce0920-7ddf-4a41-a6ab-d4c884e2af21" />
 
+### Info:
+- GPIO expander used to host the keyboard matrix allowing me to have 3 rotary encoders.
+- Decoupling capacitors added for RGB LEDs and GPIO expander.
+- Thru hole pads added for oled wires that connect to the oled driver board. 
+
+
 ## PCB
 <img width="925" height="703" alt="image" src="https://github.com/user-attachments/assets/3d0b6c4c-6598-497b-9b01-34d272348e62" />
 
