@@ -48,7 +48,6 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - GPIO expander used to host the keyboard matrix allowing me to have 3 rotary encoders.
 - Decoupling capacitors added for RGB LEDs and GPIO expander.
 - Thru hole pads added for oled wires that connect to the oled driver board.
-- There are some DRC errors but those should be fine to ignore as i think it should be fine to cut of a 0.1mm of a RGB LED pad.
 
 
 ## PCB
@@ -59,6 +58,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - 113mm (width) x 86mm (height).
 - M3 sized mounting holes for securing the PCB. (No screws are used for mounting of this PCB in the case)
 - I recomend to get the manufacutre to assemble **ONLY THE SMD COMPONENTS** the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
+- There are some DRC errors but those should be fine to ignore as i think it should be fine to cut of a 0.1mm of a RGB LED pad.
 
 ## Firmware overview:
 
