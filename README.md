@@ -67,7 +67,13 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - 9x SK6812MINI-E RGB LEDS.
 - 9X Cherry MX keycaps.
 - 85g of 3D printing filament (optional 3 colours and TPU feet)
-- 
+- x1 MLCC ceramic capacitor 0.1uF
+- x9 Cherry MX Mechanical Switches
+- x1 Seeeduino XIAO SAMD21 (MCU) 
+- x1 MLCC ceramic 4.7uF
+- x1 330Ω resistor 
+- x1 47 µF Electrolytic Capacitor
+- x1 EC11 Rotary encoders
 
 
 ## Ai usage declaration:
