@@ -51,7 +51,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 
 
 ## PCB
-<img width="848" height="642" alt="image" src="https://github.com/user-attachments/assets/48120e4a-432e-4c51-ae23-a0187e25b935" />
+<img width="862" height="655" alt="image" src="https://github.com/user-attachments/assets/903b0145-8c1f-492d-9074-a9a9889d515e" />
 
 ### Info:
 - 2 layer PCB with ground plane included.
