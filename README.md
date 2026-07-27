@@ -47,7 +47,8 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 ### Info:
 - GPIO expander used to host the keyboard matrix allowing me to have 3 rotary encoders.
 - Decoupling capacitors added for RGB LEDs and GPIO expander.
-- Thru hole pads added for oled wires that connect to the oled driver board. 
+- Thru hole pads added for oled wires that connect to the oled driver board.
+- There are some DRC errors but those should be fine to ignore as i think it should be fine to cut of a 0.1mm of a RGB LED pad.
 
 
 ## PCB
