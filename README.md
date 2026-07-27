@@ -1,5 +1,6 @@
 # Fracture Pad (A macro pad project) 
 <img width="822" height="707" alt="image" src="https://github.com/user-attachments/assets/de8d373c-149d-4e0c-bff8-5b10820a8ddc" />
+<img width="790" height="578" alt="image" src="https://github.com/user-attachments/assets/59cad784-7688-41ac-932d-40816a054748" />
 
 ## Description:
 A macro Pad for use in CAD and general productivity + convenience, mainly for use in CAD... but up to you to decide what you want to use it for, I included an OLED screen to display things like animations or info like RAM usage.
@@ -36,6 +37,21 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 <img width="633" height="697" alt="image" src="https://github.com/user-attachments/assets/1d6f99af-05c4-44fd-835f-e02b038619ef" />
 <img width="592" height="685" alt="image" src="https://github.com/user-attachments/assets/118f1bd5-c803-4098-a33b-8bf47e916044" />
 <img width="570" height="625" alt="image" src="https://github.com/user-attachments/assets/a52a62b5-ae21-4755-89a5-eb608af0ce36" />
+
+## Schematic:
+<img width="1081" height="745" alt="image" src="https://github.com/user-attachments/assets/32968214-80ff-44a4-b055-5866b7310732" />
+<img width="1335" height="793" alt="image" src="https://github.com/user-attachments/assets/78ef014f-713a-467c-8a9f-dff25a2e30e8" />
+<img width="1202" height="826" alt="image" src="https://github.com/user-attachments/assets/013ee33c-b5fd-46b6-bb5d-8c49de73e9bc" />
+<img width="902" height="816" alt="image" src="https://github.com/user-attachments/assets/32ce0920-7ddf-4a41-a6ab-d4c884e2af21" />
+
+## PCB
+<img width="925" height="703" alt="image" src="https://github.com/user-attachments/assets/3d0b6c4c-6598-497b-9b01-34d272348e62" />
+
+### Info:
+- 2 layer PCB with ground plane included.
+- 113mm (width) x 86mm (height).
+- M3 sized mounting holes for securing the PCB. (No screws are used for mounting of this PCB in the case)
+- I recomend to get the manufacutre to assemble the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
 
 
 
