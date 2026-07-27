@@ -57,7 +57,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - 2 layer PCB with ground plane included.
 - 113mm (width) x 86mm (height).
 - M3 sized mounting holes for securing the PCB. (No screws are used for mounting of this PCB in the case)
-- I recomend to get the manufacutre to assemble the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
+- I recomend to get the manufacutre to assemble **ONLY THE SMD COMPONENTS** the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
 
 ## Firmware overview:
 
@@ -75,6 +75,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - x1 47 µF Electrolytic Capacitor
 - x3 EC11 Rotary encoders
 - x9 1N4148 Diodes (SMD variant)
+- X1 PCF8574AT (GPIO expander) (SMD variant)
 
 
 ## Ai usage declaration:
