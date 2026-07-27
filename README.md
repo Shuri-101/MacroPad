@@ -59,6 +59,12 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - M3 sized mounting holes for securing the PCB. (No screws are used for mounting of this PCB in the case)
 - I recomend to get the manufacutre to assemble the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
 
+## Firmware overview:
+- Work in progress...
+
+Ai usage declaration:
+Since this was my first pcb project i used ai extensively for research and learning how to design PCBs and how to use ki-cad. e.g. "How wide should this trace be" or  "What is a decoupling capacitor when should I use it im circuit does the GPIO expander needa decoupling capacitor..." **I ONLY USE AI TO LEARN**  like now i uderstand why decoupling capacitors are used and how they are connected and now i understand power traces like 5v should be wide and ground traces if needed should be wider to allow low resistance path... ill be happy to answer any questions regarding this.
+
 
 
 
