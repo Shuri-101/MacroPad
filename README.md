@@ -10,4 +10,7 @@ A macro Pad for use in CAD and general productivity + convenience, mainly for us
 - Back lit RGB leds for each switch (SK6812 MINI-E)
 - 3 EC11 rotary encoders
 - 3D printed voronoi patterned **snap lock** case **NO SCREWS NEEDED for assembly of case** (only screws are needed for the mounting of the OLED driver board which are provided in the oled package bought from waveshare)
+- **NO HEAT ISERTS REQUIRED** as the oled board can be mounted on 3D printed standoffs by just threading the screws on since not a high amount of strength is required for mounting of the driver board.
+
+
 
