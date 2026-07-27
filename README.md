@@ -15,6 +15,9 @@ A macro Pad for use in CAD and general productivity + convenience, mainly for us
 
 ## CAD model:
 
+### Info:
+The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. Things that should be 3D printed are Rotary encoder knobs, All casing layers and OLED driver board standoffs.
+
 ### OLED cover:
 <img width="750" height="525" alt="image" src="https://github.com/user-attachments/assets/972625da-d876-4583-8000-3447585b5a6a" />
 
