@@ -24,7 +24,8 @@ A macro Pad for use in CAD and general productivity + convenience, mainly for us
 ### Case bottom:
 <img width="655" height="512" alt="image" src="https://github.com/user-attachments/assets/58f7b6bb-c8c7-4409-b0cb-16c181e2a5f3" />
 
-
+### View of PCB mounting:
+<img width="1028" height="678" alt="image" src="https://github.com/user-attachments/assets/af558c1d-702e-44d7-8aae-0b8f91d6d4d5" />
 
 ### Exploded view:
 <img width="633" height="697" alt="image" src="https://github.com/user-attachments/assets/1d6f99af-05c4-44fd-835f-e02b038619ef" />
