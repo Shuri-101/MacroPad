@@ -70,7 +70,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 - 85g of 3D printing filament (optional 3 colours and TPU feet)
 - x10 MLCC ceramic capacitor 0.1uF
 - x9 Cherry MX Mechanical Switches
-- x1 Seeeduino XIAO SAMD21 (MCU) 
+- x1 XIAO RP2040 (MCU) 
 - x1 MLCC ceramic 4.7uF (SMD)
 - x1 330Ω resistor 
 - x1 47 µF Electrolytic Capacitor
