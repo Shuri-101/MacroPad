@@ -55,7 +55,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 
 ### Info:
 - 2 layer PCB with ground plane included.
-- 113mm (width) x 86mm (height).
+- 113mm (width) x 86mm (length).
 - M3 sized mounting holes for securing the PCB. (No screws are used for mounting of this PCB in the case)
 - I recomend to get the manufacutre to assemble **ONLY THE SMD COMPONENTS** the PCB for you as i use SMD variants for diodes, capacitors and components to save space, unless you know how to do reflow soldering and have the equipment.
 - There are some DRC errors but those should be fine to ignore as i think it should be fine to cut of a 0.1mm of a RGB LED pad.
