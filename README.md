@@ -80,7 +80,7 @@ The casing is made up of 3 main layers OLED cover --> Case Lid --> Case bottom. 
 
 
 ## Ai usage declaration:
-Since this was my first PCB project i used ai extensively for research and learning how to design PCBs and how to use ki-cad. e.g. "How wide should this trace be" or  "What is a decoupling capacitor when should I use it I'm circuit does the GPIO expander need a decoupling capacitor..." **I ONLY USE AI TO LEARN**  like now i understand why decoupling capacitors are used and how they are connected and now i understand power traces like 5v should be wide and ground traces if needed should be wider to allow low resistance path... ill be happy to answer any questions regarding this.
+Since this was my first PCB project i used ai extensively for research and learning how to design PCBs and how to use ki-cad. e.g. "How wide should this trace be" or  "What is a decoupling capacitor when should I use it? Does the GPIO expander need a decoupling capacitor..." **I ONLY USE AI TO LEARN**  like now i understand why decoupling capacitors are used and how they are connected and now i understand power traces like 5v should be wide and ground traces if needed should be wider to allow low resistance path... ill be happy to answer any questions regarding this.
 
 
 
